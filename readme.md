@@ -33,17 +33,3 @@ When the button is pressed, the car lights change from green to yellow and then 
 Once the code is uploaded to the Arduino board, the traffic lights will start to work. The car lights will be green, while the pedestrian lights will be red. When the button is pressed, the car lights will change to yellow and then to red, and the pedestrian lights will change to green. After a preset amount of time, the pedestrian lights will start flashing and then turn red, while the car lights will change from red to green again.
 
 The length of time allowed for crossing can be adjusted by changing the value of the `crossTime` variable (in milliseconds) in the code.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-Lembre-se de alterar as informações do seu projeto, se necessário, como o nome do projeto, a descrição, os requisitos e a licença.
-
-
-
-
-
-Regenerate response
-Send a message...
-
-ChatGPT Mar 23 Version. Free Research Preview. ChatGPT may produce inaccurate information about people, places, or facts.
